@@ -10,7 +10,8 @@ C) adres e-mail i hasło
 
 D) nazwa użytkownika i adres IP
 
-**Poprawna odpowiedź: C**
+**Poprawna odpowiedź: A**
+
 	 
 ## Pytanie 2
 
